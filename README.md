@@ -16,6 +16,12 @@
 
 ---
 
+<p align="center">
+  <img src="os-switch.svg" width="300" alt="Linux to Windows" />
+</p>
+
+---
+
 ### 🧑‍💻 Sobre mí
 
 - 🔭 Actualmente desarrollando proyectos como **Desarrollador de Software**, con enfoque en buenas prácticas y calidad
