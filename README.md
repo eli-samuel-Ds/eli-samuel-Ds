@@ -14,6 +14,12 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/eli-samuel-Ds?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/stars/eli-samuel-Ds?affiliations=OWNER&label=Estrellas&style=social" />
+</p>
+
 ---
 
 <p align="center">
