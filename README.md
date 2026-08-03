@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/eli-samuel-suero-rodriguez-6b458635a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="suerorodriguezsamuel@gmail.com">
+  <a href="mailto:suerorodriguezsamuel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,7 +48,6 @@
   **QA / Testing**
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  ![ISTQB](https://img.shields.io/badge/ISTQB-orientado-blue?style=flat-square)
 
   **Sistemas y herramientas**
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -62,24 +61,16 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eli-samuel-Ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-samuel-Ds&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=eli-samuel-Ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=eli-samuel-Ds&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eli-samuel-Ds&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=eli-samuel-Ds&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eli-samuel-Ds&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eli-samuel-Ds&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
