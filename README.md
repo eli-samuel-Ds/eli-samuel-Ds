@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="os-switch.svg" width="300" alt="Linux to Windows" />
+  <img src="./assets/os-switch.svg" width="300" alt="Linux to Windows" />
 </p>
 
 ---
@@ -77,6 +77,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eli-samuel-Ds&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Actividad de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eli-samuel-Ds/eli-samuel-Ds/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
